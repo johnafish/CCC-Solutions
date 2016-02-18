@@ -11,4 +11,4 @@ If you have a solution to contribute, submit a pull request! In order for your p
 If there already exists a solution to the problem, and you believe that your solution contributes something *new* to the problem (that is, you use a significantly different algorithm/approach), rename the previous file to `S5_1.java` (for example), and submit yours as `S5_2.java`. Continue this trend for more solutions.
 
 ##Curators
-This repository is curated by @johnafish and @foleyfactor, both of Waterloo Ontario and Sir John A Macdonald S.S., while most of the solutions were curated by aforementioned Mr. Robart.
+This repository is curated by [@johnafish](http://www.github.com/johnafish) and [@foleyfactor](http://www.github.com/foleyfactor), both of Waterloo Ontario and Sir John A Macdonald S.S., while most of the solutions were curated by aforementioned Mr. Robart.
